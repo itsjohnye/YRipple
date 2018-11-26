@@ -11,7 +11,7 @@ Now it has been updated to Xcode 10 and Swift 4.2.
 
 
 ## Demo
-![](https://github.com/itsjohnye/YRipple/blob/master/YRipple_GIF.gif)
+![](https://github.com/itsjohnye/YRipple/blob/master/Demo.gif)
 
 For more details see [Demo](https://github.com/itsjohnye/YRipple/tree/master/YRippleDemo) project.
 
