@@ -73,8 +73,8 @@ YRipple.border(view:UIView, locationInView or absolutePosition:CGPoint, color:UI
 YRipple.fill(view:UIView, locationInView or absolutePosition:CGPoint, color:UIColor)
 ```
 notably:
-- locationInView: `CGPoint.Zero is top & left in UIView`.
-- absolutePosition: `CGPoint.Zero is top & left in UIWindow`.
+- locationInView: `CGPoint.Zero` is top & left in UIView.
+- absolutePosition: `CGPoint.Zero` is top & left in UIWindow.
 
 ##### for example
 ```
