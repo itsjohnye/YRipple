@@ -18,8 +18,8 @@ For more details see [Demo](https://github.com/itsjohnye/YRipple/tree/master/YRi
 ## Table of Contents
 - [Installation](#Installation)
 - [Useage](#Useage)
-    - [UIView extention](#UIView extention)
-    - [Class method](#Class method)
+    - [UIView-extention](#UIView-extention)
+    - [Class-method](#Class-method)
     - [Customizing](#Customizing)
 - [License](#License)
 
@@ -38,7 +38,7 @@ in your project:
 >(to be updated)
 
 ## Useage
-#### UIView extention
+#### UIView-extention
 ```
 UIview.rippleBorder(location: yourLocation, color: UIColor)
 ```
@@ -65,7 +65,7 @@ rippleBorder(location:location, color: UIColor.white){
 }
 ```
 
-#### Class method
+#### Class-method
 ```
 YRipple.border(view:UIView, locationInView or absolutePosition:CGPoint, color:UIColor)
 ```
