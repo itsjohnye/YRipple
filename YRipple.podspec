@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "YRipple"
   s.version      = "1.0.0"
-  s.summary      = "iOS Ripple Effect."
+  s.summary      = "iOS Ripple Effect"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                   iOS Ripple Effect
+                   A simple framework for iOS Ripple Effect
                    DESC
 
   s.homepage     = "https://github.com/itsjohnye/YRipple"
@@ -66,7 +66,7 @@ Pod::Spec.new do |s|
 
   # s.platform     = :ios
   s.platform     = :ios, "10.0"
-
+  s.swift_version = '>= 3.2, <= 4.2.1'
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
   # s.osx.deployment_target = "10.7"
