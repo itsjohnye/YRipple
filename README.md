@@ -28,10 +28,10 @@ For more details see [Demo](https://github.com/itsjohnye/YRipple/tree/master/YRi
 ### Manually:
 Simply drop `YRipple.swift` from "Source" folder into your project (make sure to enable "Copy items if needed" and "Create groups").
 ### Cocoapods:
+to the Podfile:
 >"pod YRipple", "1.0"
 
 in your project:
-
 >import YRipple
 
 ### Carthage:
