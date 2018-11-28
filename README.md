@@ -44,10 +44,10 @@ import YRipple
 ## Useage
 #### UIView-extention
 ```
-UIview.rippleBorder(location: yourLocation, color: UIColor)
+UIView.rippleBorder(location: yourLocation, color: UIColor)
 ```
 ```
-UIview.rippleFill(location: yourLocation, color: UIColor)
+UIView.rippleFill(location: yourLocation, color: UIColor)
 ```
 ##### for example
 ```
