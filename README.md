@@ -1,10 +1,11 @@
 
 # YRipple
+[![Swift Version](https://img.shields.io/badge/Swift_Version-4.2-orange.svg)](https://docs.swift.org/swift-book)
+[![Releases](https://img.shields.io/badge/Releases-1.0.0-green.svg)](https://github.com/itsjohnye/YRipple/releases)
+[![Cocoapods](https://img.shields.io/badge/Cocoapods-compatible-brightgreen.svg)](https://cocoapods.org)
+[![GitHub license](https://img.shields.io/badge/Lisence-MIT-blue.svg)](LICENSE.md)
 
 ![](https://github.com/itsjohnye/YRipple/blob/master/YRipple_Logo.png)
-
-
-
 YRipple is a framework inherit the legacy from [PIRipple](https://github.com/pixel-ink/PIRipple).
 
 Now it has been updated to Xcode 10 and Swift 4.2.
@@ -12,7 +13,6 @@ Now it has been updated to Xcode 10 and Swift 4.2.
 
 ## Demo
 ![](https://github.com/itsjohnye/YRipple/blob/master/Demo.gif)
-
 For more details see [Demo](https://github.com/itsjohnye/YRipple/tree/master/YRippleDemo) project.
 
 ## Table of Contents
