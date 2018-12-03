@@ -115,4 +115,5 @@ YRipple.stop(self.view)
 ```
 
 ## License
-YRipple is published under the MIT license.
+YRipple is published under the [MIT](https://github.com/itsjohnye/YRipple/blob/master/LICENSE) license.
+Copyright (c) 2018 itsjohnye.
